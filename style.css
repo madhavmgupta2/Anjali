@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+    color:aqua;
+}
+h1{
+    color:burlywood;
+}
+h2{
+    color:green;
+}
+#title{
+    text-align: center;
+    text-decoration: underline;
+
+}
+img{
+    width: 300px;
+}
+#world{
+    float: left;
+    font-size:2em;
+    color: purple;
+}
+#erth{
+    float: center;
+}
+#ref{
+margin-left: 600px;
+
+}
+h3{
+    text-align: center;
+}
+#ly{
+    text-align: center;
+    color: red;
+    border:10px solid aquamarine;
+}
+#heart{
+    color:red;
+    font-size: 30px;
+}
